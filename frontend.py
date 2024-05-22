@@ -1,7 +1,7 @@
 from game import select_fighter, battle
 
 def display_menu():
-    print("\nWelcome to the Arena!")
+    print("\nWelcome to the Arena - Tvoj Tatko je buzerant!")
     print("1. Start Game")
     print("2. Exit")
     choice = input("Enter your choice: ")
